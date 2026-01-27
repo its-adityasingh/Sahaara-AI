@@ -3,10 +3,10 @@ import { Heart, Zap, Sun, BookOpen, Home, Menu, X } from "lucide-react";
 
 const navLinks = [
   { name: "Home", href: "#", icon: Home },
-  { name: "Ayush", subtitle: "Elderly Care", href: "https://sahaara-ayush.vercel.app/", icon: Heart },
-  { name: "Manas & Fit", subtitle: "Youth Wellbeing", href: "https://sahaara-manas-fit.vercel.app/", icon: Zap },
-  { name: "Poshan", subtitle: "Child Nutrition", href: "https://sahaara-poshan.vercel.app/", icon: Sun },
-  { name: "Gyaan", subtitle: "Education", href: "https://sahaara-gyaan.vercel.app/", icon: BookOpen },
+  { name: "Ayush", subtitle: "Elderly Care", href: "https://sahaara-ayush-black.vercel.app/", icon: Heart },
+  { name: "Manas & Fit", subtitle: "Youth Wellbeing", href: "https://sahaara-manas.vercel.app/", icon: Zap },
+  { name: "Poshan", subtitle: "Child Nutrition", href: "https://sahaara-poshan-git-main-its-adityasinghs-projects.vercel.app/", icon: Sun },
+  { name: "Gyaan", subtitle: "Education", href: "https://sahaara-gyaan-delta.vercel.app/", icon: BookOpen },
 ];
 
 const Navbar = () => {

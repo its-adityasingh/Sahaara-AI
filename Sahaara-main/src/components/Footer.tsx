@@ -2,10 +2,10 @@ import { Heart, Mail, Phone, MapPin, ExternalLink } from "lucide-react";
 
 const Footer = () => {
   const modules = [
-    { name: "Ayush - Elderly Care", href: "https://sahaara-ayush.vercel.app/", target: "_blank" },
-    { name: "Manas & Fit - Youth Wellbeing", href: "https://sahaara-manas-fit.vercel.app/", target: "_blank" },
-    { name: "Poshan - Child Nutrition", href: "https://sahaara-poshan.vercel.app/", target: "_blank" },
-    { name: "Gyaan - Accessible Education", href: "https://sahaara-gyaan.vercel.app/", target: "_blank" },
+    { name: "Ayush - Elderly Care", href: "https://sahaara-ayush-black.vercel.app/", target: "_blank" },
+    { name: "Manas & Fit - Youth Wellbeing", href: "https://sahaara-manas.vercel.app/", target: "_blank" },
+    { name: "Poshan - Child Nutrition", href: "https://sahaara-poshan-git-main-its-adityasinghs-projects.vercel.app/", target: "_blank" },
+    { name: "Gyaan - Accessible Education", href: "https://sahaara-gyaan-delta.vercel.app/", target: "_blank" },
   ];
 
   const resources = [
